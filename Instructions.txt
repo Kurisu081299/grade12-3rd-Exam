@@ -5,6 +5,9 @@ Good Morning, Here's the instruction for your exam:
 3. You may look at the reference code, but it doesn't guarantee you. 
 4. Stay calm and relax and trust what you have learned.
 
+5. Create your own folder with last_name, inside your folder that' where you are going to code
+6. When passing, create new branch (git checkout -b feature/exam-(last_name))
+
 Here's what you are going to Make
 
 DATABASE
